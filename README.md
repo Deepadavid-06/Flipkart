@@ -17,6 +17,6 @@ This project includes manual testing of Flipkart application covering login, sea
 ##  Sample Bugs
 - Sort function not work properly
 
-## 🛠 Tools Used
+##  Tools Used
 - MS Excel
 - Manual Testing Techniques
